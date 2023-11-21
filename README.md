@@ -7,9 +7,6 @@ Passionate and innovative Senior iOS Engineer with extensive experience in devel
 - **Tools:** Xcode, Git
 - **Architecture Patterns:** [TCA](https://github.com/pointfreeco/swift-composable-architecture), MVC, MVVM
 
-## Education
-- Bachelor’s Degree in Computer Science
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/williambrandin/)
 - [Portfolio](https://paper.dropbox.com/doc/Will-Brandin-iOS-Engineer--CEN6U4f2_lZklVg6lcbv8jijAQ-pV36iK5sTGjPMU5kKTykM)
