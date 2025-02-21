@@ -9,7 +9,7 @@ Passionate and innovative Senior iOS Engineer with extensive experience in devel
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/williambrandin/)
-- [Portfolio](https://paper.dropbox.com/doc/Will-Brandin-iOS-Engineer--CEN6U4f2_lZklVg6lcbv8jijAQ-pV36iK5sTGjPMU5kKTykM)
+- [Portfolio](https://www.willbrandin.me/)
 
 ---
 *Always learning, always innovating.*
